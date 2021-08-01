@@ -1,0 +1,31 @@
+[ {
+  "uid" : "941f28e40be2dbbf",
+  "name" : "checkIsRedirectToAuth()",
+  "time" : {
+    "start" : 1626507968650,
+    "stop" : 1626507973597,
+    "duration" : 4947
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84b18986779dd616",
+  "name" : "checkUsabilityOfReplanishment()",
+  "time" : {
+    "start" : 1626507973606,
+    "stop" : 1626507989156,
+    "duration" : 15550
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6291419c3da97545",
+  "name" : "checkAuthFrameAppearenceInCarLeasingAgreementsWhenHaveNoAutorization()",
+  "time" : {
+    "start" : 1626507961475,
+    "stop" : 1626507966970,
+    "duration" : 5495
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

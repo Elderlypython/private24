@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","car_Loans.positive.TestCarLoans.checkAuthFrameAppearenceInCarLeasingAgreementsWhenHaveNoAutorization","5495",""
+"passed","telecomunication.positive.TestMobilePhoneReplanishment.checkIsRedirectToAuth","4947",""
+"broken","telecomunication.positive.TestMobilePhoneReplanishment.checkUsabilityOfReplanishment","15550",""

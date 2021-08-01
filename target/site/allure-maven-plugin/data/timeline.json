@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-3FIHR7C92E6",
+    "children" : [ {
+      "name" : "12532@WIN-3FIHR7C92E6.ForkJoinPool-1-worker-3(17)",
+      "children" : [ {
+        "name" : "checkAuthFrameAppearenceInCarLeasingAgreementsWhenHaveNoAutorization()",
+        "uid" : "6291419c3da97545",
+        "parentUid" : "0831391cad47c63a8447615ea8b6210f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626507961475,
+          "stop" : 1626507966970,
+          "duration" : 5495
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "941f28e40be2dbbf",
+        "parentUid" : "0831391cad47c63a8447615ea8b6210f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626507968650,
+          "stop" : 1626507973597,
+          "duration" : 4947
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkUsabilityOfReplanishment()",
+        "uid" : "84b18986779dd616",
+        "parentUid" : "0831391cad47c63a8447615ea8b6210f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626507973606,
+          "stop" : 1626507989156,
+          "duration" : 15550
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0831391cad47c63a8447615ea8b6210f"
+    } ],
+    "uid" : "16f992f8d52af89f10903d6a3b2e98e7"
+  } ]
+}

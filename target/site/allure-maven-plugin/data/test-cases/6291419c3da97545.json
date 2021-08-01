@@ -1,0 +1,86 @@
+{
+  "uid" : "6291419c3da97545",
+  "name" : "checkAuthFrameAppearenceInCarLeasingAgreementsWhenHaveNoAutorization()",
+  "fullName" : "car_Loans.positive.TestCarLoans.checkAuthFrameAppearenceInCarLeasingAgreementsWhenHaveNoAutorization",
+  "historyId" : "d84ec76eb949c6e5eb0873b146addcc3",
+  "time" : {
+    "start" : 1626507961475,
+    "stop" : 1626507966970,
+    "duration" : 5495
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ {
+    "name" : "close",
+    "time" : {
+      "start" : 1626507967159,
+      "stop" : 1626507967323,
+      "duration" : 164
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "clearCookiesAndLocalStorage",
+    "time" : {
+      "start" : 1626507966927,
+      "stop" : 1626507966961,
+      "duration" : 34
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "WIN-3FIHR7C92E6"
+  }, {
+    "name" : "thread",
+    "value" : "12532@WIN-3FIHR7C92E6.ForkJoinPool-1-worker-3(17)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "car_Loans.positive.TestCarLoans"
+  }, {
+    "name" : "testClass",
+    "value" : "car_Loans.positive.TestCarLoans"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkAuthFrameAppearenceInCarLeasingAgreementsWhenHaveNoAutorization"
+  }, {
+    "name" : "suite",
+    "value" : "car_Loans.positive.TestCarLoans"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6291419c3da97545.json",
+  "parameterValues" : [ ]
+}

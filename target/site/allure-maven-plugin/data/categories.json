@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[contains(text(),'Поповне111ння телефону. На номер +380686979712')]\"}\n  (Session info: chrome=91.0.4472.124)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'WIN-3FIHR7C92E6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\\Users\\user\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60132}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c171cd721042ef0bc6de57556bc13cbb\n*** Element info: {Using=xpath, value=//span[contains(text(),'Поповне111ння телефону. На номер +380686979712')]}",
+      "children" : [ {
+        "name" : "checkUsabilityOfReplanishment()",
+        "uid" : "84b18986779dd616",
+        "parentUid" : "05b628817ba5e0a441c95da8c31ddb14",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626507973606,
+          "stop" : 1626507989156,
+          "duration" : 15550
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "05b628817ba5e0a441c95da8c31ddb14"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

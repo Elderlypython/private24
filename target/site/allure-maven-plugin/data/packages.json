@@ -1,0 +1,49 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "car_Loans.positive.TestCarLoans",
+    "children" : [ {
+      "name" : "checkAuthFrameAppearenceInCarLeasingAgreementsWhenHaveNoAutorization",
+      "uid" : "6291419c3da97545",
+      "parentUid" : "81a9d6cce6cecb08fa64f10540aa985d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626507961475,
+        "stop" : 1626507966970,
+        "duration" : 5495
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "car_Loans.positive.TestCarLoans"
+  }, {
+    "name" : "telecomunication.positive.TestMobilePhoneReplanishment",
+    "children" : [ {
+      "name" : "checkIsRedirectToAuth",
+      "uid" : "941f28e40be2dbbf",
+      "parentUid" : "193f22427c152c44d633b4e61e558538",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626507968650,
+        "stop" : 1626507973597,
+        "duration" : 4947
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkUsabilityOfReplanishment",
+      "uid" : "84b18986779dd616",
+      "parentUid" : "193f22427c152c44d633b4e61e558538",
+      "status" : "broken",
+      "time" : {
+        "start" : 1626507973606,
+        "stop" : 1626507989156,
+        "duration" : 15550
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "telecomunication.positive.TestMobilePhoneReplanishment"
+  } ]
+}

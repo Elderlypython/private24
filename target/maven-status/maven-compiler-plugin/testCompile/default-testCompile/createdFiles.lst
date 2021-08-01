@@ -1,0 +1,7 @@
+base\BaseTest.class
+car_Loans\positive\TestCarLoans.class
+base\Listener.class
+junkTests\TestSecond.class
+junkTests\TestThird.class
+junkTests\TestFirst.class
+telecomunication\positive\TestMobilePhoneReplanishment.class

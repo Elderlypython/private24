@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "checkAuthFrameAppearenceInCarLeasingAgreementsWhenHaveNoAutorization()",
+    "uid" : "6291419c3da97545",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626507961475,
+      "stop" : 1626507966970,
+      "duration" : 5495
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "checkIsRedirectToAuth()",
+    "uid" : "941f28e40be2dbbf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626507968650,
+      "stop" : 1626507973597,
+      "duration" : 4947
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "checkUsabilityOfReplanishment()",
+    "uid" : "84b18986779dd616",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626507973606,
+      "stop" : 1626507989156,
+      "duration" : 15550
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
